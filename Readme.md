@@ -14,6 +14,11 @@ A **real-time AI-powered social media comment simulator** that classifies commen
 ![App Screenshot](./screenshots/manual1.png)
 ![App Screenshot](./screenshots/AI.png)
 
+## Live URL
+Check out the live app hosted on **Streamlit Cloud**:  
+[https://toxic-comment-ai-xgm4dfeau65bjr7kgixktw.streamlit.app/](https://toxic-comment-ai-xgm4dfeau65bjr7kgixktw.streamlit.app/)
+
+
 ## 🔹 Demo Video
 
 You can watch the demo video here:  
