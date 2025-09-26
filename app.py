@@ -23,7 +23,7 @@ labels = ["toxic", "severe_toxic", "obscene", "threat", "insult", "identity_hate
 # ===========================
 # HuggingFace Generator
 # ===========================
-generator = pipeline("text-generation", model="gpt2")
+generator = pipeline("text-generation", model="gpt2",device=-1)
 
 # ===========================
 # Label Prompts
