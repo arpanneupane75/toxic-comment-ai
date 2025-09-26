@@ -1,5 +1,5 @@
 # app.py
-import Classification.app as st
+import streamlit as st
 import joblib
 from transformers import pipeline
 import random
